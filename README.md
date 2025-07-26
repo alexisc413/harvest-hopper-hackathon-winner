@@ -2,6 +2,8 @@
 
 <img width="379" height="359" alt="image" src="https://github.com/user-attachments/assets/dc5d6b4e-e5e5-4ed1-95aa-0f9ab28acba1" />
 
+# Watch our demo: https://youtu.be/vGaDxAWnaUs
+
 Inspired by my Park Scholarship's Learning Lab, where we learned about food insecurity and mobility issues in Eastern North Carolina.
 
 <img width="1836" height="992" alt="image" src="https://github.com/user-attachments/assets/e908a02b-3c9a-4357-8282-7945dae59066" />
